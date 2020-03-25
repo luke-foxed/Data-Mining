@@ -5,6 +5,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib
 import scipy.stats as stats
+from zipfile import ZipFile
 
 import seaborn as sns
 sns.set_style("darkgrid")
@@ -61,5 +62,18 @@ def eda_categorical(df, feature, target, max_categories=20, labels=None, header=
     result = stats.chi2_contingency(df_ft_countplot)
     print('Chi-Square statistic %.4e (p=%.4e, dof=%d)' % result[0:3])
     
+    
 def encode_labels(data):
     return {line[0]: "(%s) %s" % (line[0], line[1:].strip()) for line in data.split("\n") if len(line) > 0}
+
+
+def make_assignment(files=[], archive="my_assignment.zip"):
+    default_files = ["01-Import.ipynb", "02-EDA.ipynb", "03-Model.ipynb", "my_lib.py", "df_grading_pred.csv"]
+    print(f"Creating archive: {archive}")
+    with ZipFile(archive,"w") as zip:
+        for f in files+default_files:
+            if os.path.isfile(f):
+                print(f"\t{f} - OK")
+                zip.write(f)
+            else:
+                print(f"\t{f} - Skipped")
