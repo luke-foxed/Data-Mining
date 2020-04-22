@@ -67,6 +67,46 @@ def encode_labels(data):
     return {line[0]: "(%s) %s" % (line[0], line[1:].strip()) for line in data.split("\n") if len(line) > 0}
 
 
+def clean_categories(df):
+    
+    # TYPE_OF_ADMISSION 
+    feature = "TYPE_OF_ADMISSION"
+    df[feature].fillna("9", inplace=True)
+    df.loc[df[feature] == "`", feature] = "9"
+    print("Feture %s -> %s" % (feature, df[feature].unique()))
+
+    # SOURCE_OF_ADMISSION
+    feature = "SOURCE_OF_ADMISSION"
+    df[feature].fillna("9", inplace=True)
+    df.loc[df[feature].isin(["`", "3", "NaN"]), feature] = "9"
+    print("Feture %s -> %s" % (feature, df[feature].unique()))
+
+    # PAT_STATE
+    feature = "PAT_STATE"
+    df[feature].fillna("XX", inplace=True)
+    df.loc[df[feature].isin(["`", "FC", "AR", "OK", "LA", "NM"]), feature] = "ZZ"
+    df.loc[df[feature].isin(["`", "FC"]), feature] = "XX"
+    print("Feture %s -> %s" % (feature, df[feature].unique()))
+
+    # SEX_CODE
+    feature = "SEX_CODE"
+    df[feature].fillna("U", inplace=True)
+    df.loc[df[feature].isin(["NaN"]), feature] = "U"
+    print("Feture %s -> %s" % (feature, df[feature].unique()))
+
+    # RACE
+    feature = "RACE"
+    df[feature].fillna("5", inplace=True)
+    df.loc[df[feature].isin(["NaN", "`"]), feature] = "5"
+    print("Feture %s -> %s" % (feature, df[feature].unique()))
+
+    # ETHNICITY
+    feature = "ETHNICITY"
+    df[feature].fillna("3", inplace=True)
+    df.loc[df[feature].isin(["NaN", "`"]), feature] = "3"
+    print("Feture %s -> %s" % (feature, df[feature].unique()))
+
+
 def make_assignment(files=[], archive="my_assignment.zip"):
     default_files = ["01-Import.ipynb", "02-EDA.ipynb", "03-Model.ipynb", "my_lib.py", "df_grading_pred.csv"]
     print(f"Creating archive: {archive}")
