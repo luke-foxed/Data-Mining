@@ -1,0 +1,607 @@
+THCIC_ID,PROVIDER_NAME,FAC_TEACHING_IND,FAC_PSYCH_IND,FAC_REHAB_IND,FAC_ACUTE_CARE_IND,FAC_SNF_IND,FAC_LONG_TERM_AC_IND,FAC_OTHER_LTC_IND,FAC_PEDS_IND
+724900,Brownsville Doctors Hospital,0,0,0,1,0,0,0,1
+854000,Twin Creeks Hospital,0,0,1,0,0,0,0,0
+907000,Renaissance Hospital-Groves,0,0,0,1,0,0,0,0
+939000,GlobalRehab Hospital-San Antonio,0,0,1,0,0,0,0,0
+798500,Austin Surgical Hospital,0,0,0,0,0,0,0,1
+804100,Kindred Hospital-Corpus Christi,0,0,0,0,0,1,0,0
+812000,Kindred Hospital Victoria,0,0,0,0,0,1,0,0
+818000,Kindred Hospital Amarillo,0,0,0,1,0,1,0,0
+841400,Kindred Rehabilitation Hospital Amarillo,0,0,1,0,0,0,0,0
+972700,Pristine Hospital of Pasadena,0,0,0,1,0,0,0,0
+107100,Audubon Behavioral Healthcare of Lufkin,0,1,0,0,0,0,0,0
+661001,Texas Specialty Hospital-Dallas,0,0,0,0,0,1,0,0
+678000,Kindred Hospital Midtown,0,0,0,1,0,1,0,0
+715001,Texas Specialty Hospital-Houston,0,0,0,0,0,1,0,0
+718000,Devereux Texas Treatment Network,0,1,0,0,0,0,0,0
+789900,Select Specialty Hospital-Midland,0,0,0,0,0,1,0,0
+826500,Beaumont Bone & Joint Institute,0,0,0,1,0,0,0,0
+909000,St Anthonys Hospital,0,0,0,1,0,0,0,0
+970700,Esplanade Rehab Hospital,0,0,1,0,0,0,0,0
+100,Austin State Hospital,0,1,0,0,0,0,0,0
+101,Big Spring State Hospital,0,1,0,0,0,0,0,0
+102,UT Medical Branch Hospital,1,0,0,1,0,0,0,1
+104,Rio Grande State Center,0,1,0,0,0,0,0,0
+105,UT MD Anderson Cancer Center,1,0,0,1,0,0,0,0
+106,Kerrville State Hospital,0,1,0,0,0,0,0,0
+107,Rusk State Hospital,0,1,0,0,0,0,0,0
+108,Texas Center for Infectious Disease,0,0,0,0,0,1,0,0
+110,San Antonio State Hospital,0,1,0,0,0,0,0,0
+111,Terrell State Hospital,0,1,0,0,0,0,0,0
+112,UT Health Center-Tyler,1,0,0,1,0,0,0,0
+114,North Texas State Hospital,0,1,0,0,0,0,0,0
+115,Harris County Psychiatric Center,0,1,0,0,0,0,0,0
+117,Waco Center for Youth,0,1,0,0,0,0,0,0
+118,El Paso Psychiatric Center,0,1,0,0,0,0,0,0
+1000,Baptist St Anthonys Health System-Baptist Campus,0,0,0,1,0,0,0,0
+2001,St Joseph Regional Health Center,1,0,0,1,0,0,0,0
+6000,Matagorda Regional Medical Center,0,0,0,1,0,0,0,1
+6001,Matagorda Regional Medical Center,0,1,1,0,1,0,0,0
+7000,Womans Hospital-Texas,0,0,0,0,0,0,0,0
+8001,Baylor Medical Center at Uptown,0,0,0,1,0,0,0,0
+13001,Grace Medical Center,0,1,0,1,0,0,0,1
+14000,Columbus Community Hospital,0,0,1,1,1,0,0,1
+19000,Valley Regional Medical Center,0,0,1,1,1,0,0,1
+20000,Good Shepherd Medical Center-Marshall,0,0,0,1,0,0,0,0
+23000,Yoakum Community Hospital,0,0,1,1,1,0,0,0
+26000,Childress Regional Medical Center,0,0,0,1,0,0,0,0
+27000,Baylor Medical Center-Garland,0,0,1,1,1,0,0,0
+28000,Kindred Hospital-Dallas,0,0,0,0,0,1,0,0
+29000,Good Shepherd Medical Center,0,0,0,1,0,0,0,0
+30000,Doctors Hospital-Tidwell,0,0,1,1,0,0,0,1
+31001,Allegiance Specialty Hospital-Kilgore,0,1,0,1,0,0,0,0
+34000,Palo Pinto General Hospital,0,0,0,1,0,0,0,0
+35000,St Davids Hospital,0,0,0,1,0,0,0,0
+38001,CHRISTUS Jasper Memorial Hospital,0,0,0,1,0,0,0,0
+40000,Providence Health Center,0,0,0,1,0,0,0,1
+41000,Madison St Joseph Health Center,0,0,0,1,1,0,0,0
+42000,Baylor Medical Center at Carrollton,0,0,0,1,0,0,0,0
+44000,Scott & White Hospital Taylor,0,0,1,1,1,0,0,0
+47000,Huguley Memorial Medical Center,0,1,0,1,0,0,0,1
+49000,Coleman County Medical Center,0,0,0,1,0,0,0,0
+56000,San Angelo Community Medical Center,0,1,1,1,0,0,0,1
+58000,Brownwood Regional Medical Center,0,0,1,1,1,0,0,1
+61000,Huntsville Memorial Hospital,0,0,0,1,0,1,0,0
+62000,Winkler County Memorial Hospital,0,0,0,1,0,0,0,0
+63000,Uvalde Memorial Hospital,0,0,0,1,0,0,0,0
+64000,Citizens Medical Center,0,0,0,1,0,0,0,0
+66000,Scott & White Hospital-Brenham,0,0,1,1,1,0,0,1
+71000,College Station Medical Center,0,0,0,1,0,0,0,0
+72000,Memorial Medical Center-San Augustine,0,0,0,1,0,0,0,0
+75000,Mitchell County Hospital,0,0,1,1,1,0,0,0
+76000,Tomball Regional Medical Center,0,1,1,1,1,0,0,0
+81001,Mission Trail Baptist Hospital,0,0,0,1,0,0,0,1
+85000,Hunt Regional Medical Center Greenville,0,0,0,1,1,0,0,1
+87000,Hunt Regional Community Hospital,0,0,0,1,0,0,0,0
+89001,Liberty-Dayton Regional Medical Center,0,0,0,1,0,0,0,0
+91001,Abilene Regional Medical Center,0,0,0,1,1,0,0,1
+95002,Paris Regional Medical Center South Campus,1,1,1,1,1,0,1,0
+100076,Heritage Park Surgical Hospital,0,0,0,1,0,0,0,0
+100082,Continuum Rehabilitation Hospital North Texas,0,0,1,0,0,0,0,0
+100084,Sundance Hospital,0,1,0,0,0,0,0,0
+100087,Montgomery County Mental Health Treatment Facility,0,1,0,0,0,0,0,0
+100093,Baylor Institute for Rehab Frisco,0,0,1,0,0,0,0,0
+101100,Baptist Emergency Hospital,0,0,0,1,0,0,0,0
+101200,Scott & White Emergency Hospital at Cedar Park,0,0,0,1,0,0,0,0
+101300,Westside Surgical Hospital,0,0,0,1,0,0,0,0
+101400,Behavioral Health Center of the Permian Basin,0,1,0,0,0,0,0,0
+106001,Red River Regional Hospital,0,0,0,1,1,0,0,0
+106100,Audubon Behavioral Healthcare of Longview,0,1,0,0,0,0,0,0
+108000,Cleveland Regional Medical Center,0,0,0,1,0,0,0,0
+109000,Covenant Medical Center-Lakeside,0,0,0,1,0,0,0,0
+112100,Healthsouth Rehabilitation Hospital of Cypress,0,0,1,0,0,0,0,0
+114001,Baptist Medical Center,0,0,0,1,0,0,0,0
+114100,Lone Star Behavioral Health Cypress,0,1,0,0,0,0,0,0
+115100,Texas General Hospital,0,0,0,1,0,0,0,0
+117000,Texas Childrens Hospital,1,0,0,0,0,0,0,1
+117002,Texas Childrens Hospital West Campus,0,0,0,0,0,0,0,1
+117100,Texas Childrens Hospital-Pavilion for Women,0,0,0,0,0,0,0,0
+118000,St Lukes Episcopal Hospital,1,0,1,1,0,0,0,0
+119000,Memorial Hermann Southeast Hospital,0,0,1,1,0,0,0,1
+121000,Baptist Orange Hospital,0,0,0,1,0,0,0,1
+124000,Methodist Hospital,1,1,1,1,1,0,0,0
+124100,Warm Springs Specialty Hospital New Braunfels,0,0,0,0,0,1,0,0
+126000,Angleton Danbury Medical Center,0,0,0,1,0,0,0,0
+127000,Mid-Jefferson Extended Care Hospital,0,0,0,0,0,1,0,0
+129000,Memorial Medical Center East Texas,0,1,1,1,1,0,0,1
+130000,Providence Memorial Hospital,0,0,1,1,0,0,0,1
+134001,Northeast Baptist Hospital,0,0,0,1,0,0,0,1
+136000,Schleicher County Medical Center,0,0,0,1,0,0,0,0
+139000,Culberson Hospital,0,0,0,1,0,0,0,0
+140002,Edinburg Regional Medical Center,0,0,1,1,0,0,0,1
+141000,Navarro Regional Hospital,0,0,0,1,0,0,0,0
+142000,Methodist Charlton Medical Center,1,0,0,1,0,0,0,0
+143000,Childrens Medical Center-Dallas,1,1,1,1,0,0,0,1
+143001,Childrens Medical Center Legacy,1,1,1,0,0,0,0,1
+144000,Wadley Regional Medical Center,0,0,0,1,0,0,0,1
+145000,University Medical Center,1,0,1,1,1,0,0,1
+146000,Covenant Hospital-Plainview,0,0,1,1,0,0,0,0
+147000,Lillian M Hudspeth Memorial Hospital,0,0,0,1,0,0,0,0
+154000,Methodist Hospital,0,0,1,1,0,0,0,1
+154001,Methodist Specialty & Transplant Hospital,0,1,1,1,0,0,0,0
+154002,Northeast Methodist Hospital,0,0,0,1,0,0,0,0
+154003,Methodist Texsan Hospital,0,0,0,1,0,0,0,0
+155000,Guadalupe Regional Medical Center,0,0,1,1,0,0,0,0
+158000,University Hospital,1,1,1,1,0,0,0,1
+164000,TIRR Memorial Hermann,0,0,1,1,0,0,0,0
+168000,Shannon West Texas Memorial Hospital,0,0,0,1,0,0,0,0
+172000,Memorial Hermann Northwest Hospital,0,0,1,1,0,0,0,1
+178000,Sweeny Community Hospital,0,0,0,1,1,0,0,0
+180000,Las Palmas Medical Center,0,0,0,1,0,0,0,0
+181000,Medical Center Hospital,1,0,0,1,0,1,0,0
+182000,Texas Health Harris Methodist HEB,0,1,1,1,0,0,0,0
+185000,East Texas Medical Center-Crockett,0,0,0,1,0,0,0,0
+195000,Collingsworth General Hospital,0,0,0,1,1,0,0,0
+199000,Memorial Hospital,0,0,0,1,0,0,0,0
+205000,Kimble Hospital,0,0,0,1,0,0,0,0
+206003,Select Specialty Hospital-Houston Heights,0,0,0,0,0,1,0,0
+206004,Select Specialty Hospital-Houston West,0,0,0,0,0,1,0,0
+206005,Select Specialty Hospital-Houston Medical Center,0,0,0,0,0,1,0,0
+206100,Scott & White Hospital College Station,0,0,0,1,0,0,0,1
+207001,Laredo Medical Center,0,0,0,1,0,0,0,0
+209100,Victory Medical Center Landmark,0,0,0,1,0,0,0,0
+210100,ContinueCare Hospital of Midland,0,0,0,0,0,1,0,0
+212000,Clear Lake Regional Medical Center,0,0,0,1,0,0,0,0
+214000,Medical Center-Plano,1,0,0,1,0,0,0,0
+216001,CHRISTUS Spohn Hospital-Kleberg,0,0,0,1,0,0,0,1
+219000,Hill Country Memorial Hospital,0,0,1,1,0,0,0,1
+221000,Scenic Mountain Medical Center,0,0,0,1,0,0,0,0
+228001,Southwest General Hospital,0,0,0,1,0,0,0,0
+229000,Houston Northwest Medical Center,0,0,0,1,0,0,0,0
+230000,Oakbend Medical Center,0,0,0,1,1,0,0,1
+230001,Oakbend Medical Center,0,0,0,1,0,0,0,1
+230002,Hospital for Surgical Excellence of Oakbend Medical Cen,0,0,0,0,0,0,0,0
+234000,Ballinger Memorial Hospital District,0,0,0,1,0,0,0,0
+235000,Texas Health Harris Methodist Hospital-Fort Worth,0,0,0,1,0,0,0,0
+239001,Care Regional Medical Center,0,0,0,1,0,0,0,0
+246000,Columbia Medical Center-McKinney,0,1,1,1,0,0,0,0
+247000,Shriners Hospital for Children-Galveston,1,0,1,1,0,0,0,1
+248000,East Texas Medical Center Henderson,0,0,0,1,1,0,0,1
+254000,Wise Regional Health System,0,0,1,0,0,0,0,0
+254001,Wise Regional Health System,0,1,1,1,0,0,0,1
+255000,Methodist Dallas Medical Center,1,0,0,1,1,0,0,1
+256000,Texas Health Harris Methodist Hospital-Stephenville,0,0,0,1,0,0,0,1
+263000,University Medical Center of El Paso,1,0,0,1,0,0,0,1
+266000,Sierra Medical Center,0,0,0,1,0,0,0,0
+282000,East Texas Medical Center-Mount Vernon,0,0,0,1,0,0,0,0
+283000,Metropolitan Methodist Hospital,0,0,0,1,0,0,0,0
+285000,Baylor Medical Center-Waxahachie,0,0,0,1,1,0,0,0
+286000,Mother Frances Hospital,0,0,0,1,0,0,0,0
+287000,East Texas Medical Center-Trinity,0,0,0,1,0,0,0,0
+292000,East Texas Medical Center-Clarksville,0,0,0,1,0,0,0,0
+297000,Texas Health Presbyterian Hospital - WNJ,1,1,0,1,0,0,0,1
+299001,CHRISTUS Hospital-St Mary,0,0,0,1,0,0,0,0
+300000,Baylor Medical Center-Irving,0,0,0,1,0,0,0,0
+301000,Doctors Hospital-Laredo,0,1,1,1,0,0,0,0
+302000,Memorial Hermann Memorial City Medical Center,0,0,1,1,0,0,0,1
+303000,Texas Health Presbyterian Hospital-Kaufman,0,0,0,1,0,0,0,1
+307000,Covenant Hospital-Levelland,0,0,0,1,0,0,0,0
+314001,Valley Baptist Medical Center-Brownsville,0,0,0,1,0,0,0,0
+315003,Dallas Regional Medical Center,0,0,0,1,0,0,0,0
+318000,Northwest Texas Hospital,1,1,1,1,0,0,0,1
+319000,Del Sol Medical Center,0,0,0,1,0,0,0,0
+323000,Texas Health Harris Methodist Hospital Cleburne,0,0,1,1,0,0,0,1
+331000,Baylor University Medical Center,1,1,0,1,1,0,0,1
+332000,Cook Childrens Medical Center,0,0,0,0,0,0,0,1
+334002,South Texas Regional Medical Center,0,0,0,1,1,0,0,0
+335000,University Medical Center-Brackenridge,1,0,0,1,0,0,0,0
+336001,Denton Regional Medical Center,0,0,0,1,0,0,0,0
+337001,West Houston Medical Center,0,0,0,1,0,0,0,0
+339001,CHRISTUS Santa Rosa Medical Center,0,0,1,1,0,0,0,0
+339002,CHRISTUS Santa Rosa Hospital-Westover Hills,0,0,1,1,0,0,0,0
+339003,CHRISTUS Santa Rose-Alamo Heights,0,0,1,1,0,0,0,0
+340000,Medical City Dallas Hospital,0,0,0,1,0,0,0,1
+346000,Coryell Memorial Hospital,0,0,1,1,1,0,0,0
+347000,Memorial Hermann Hospital,1,0,1,1,0,0,0,1
+349001,Bayshore Medical Center,0,1,1,1,0,1,0,1
+363000,Baylor All Saints Medical Center-Fort Worth,0,1,1,1,0,0,0,0
+369000,Little River Healthcare,0,0,0,1,1,0,0,0
+370000,Mission Regional Medical Center,0,0,1,1,0,0,0,0
+374000,East Texas Medical Center-Athens,0,0,0,1,0,0,0,0
+383000,Hill Regional Hospital,0,0,0,1,0,0,0,0
+384000,Lyndon B Johnson General Hospital,1,0,0,1,0,0,0,0
+389000,Baptist Hospitals of Southeast Texas,0,0,1,1,0,0,0,0
+390000,Park Plaza Hospital,0,0,0,1,0,0,0,0
+392000,Nacogdoches Medical Center,0,0,0,1,0,0,0,0
+393000,Starr County Memorial Hospital,0,0,0,1,0,0,0,0
+394000,Medical Center-Lewisville,0,0,0,1,0,0,0,1
+396002,Nix Health Care System,0,0,0,1,0,0,0,0
+397000,Rollins Brooks Community Hospital,0,0,0,1,1,0,0,0
+397001,Metroplex Hospital,0,0,0,1,0,0,0,0
+398000,CHRISTUS Spohn Hospital Corpus Christi,1,1,0,1,0,0,0,0
+398001,CHRISTUS Spohn Hospital Corpus Christi-Shoreline,0,0,1,1,0,0,0,0
+398002,CHRISTUS Spohn Hospital Corpus Christi-South,0,0,0,1,0,0,0,0
+400000,Valley Baptist Medical Center,1,0,1,1,0,0,0,1
+401000,East Texas Medical Center-Fairfield,0,0,0,1,0,0,0,0
+405000,San Jacinto Methodist Hospital,0,0,0,1,0,0,0,0
+406000,Peterson Regional Medical Center,0,0,0,1,0,0,0,0
+407000,Memorial Hermann Southwest Hospital,0,1,1,1,0,0,0,1
+409000,John Peter Smith Hospital,1,1,0,1,1,0,0,1
+410000,East Texas Medical Center,0,0,0,1,0,0,0,0
+411000,East Texas Medical Center-Quitman,0,0,0,1,0,0,0,0
+416000,East Texas Medical Center-Jacksonville,0,0,0,1,0,0,0,0
+417000,United Regional Health Care System,1,0,0,1,0,0,0,1
+422000,Texas Health Arlington Memorial Hospital,0,0,1,1,0,0,0,0
+424000,Lake Granbury Medical Center,0,0,0,1,0,0,0,0
+424500,Seton Smithville Regional Hospital,0,0,0,1,0,0,0,0
+425000,Odessa Regional Medical Center,0,0,0,1,0,0,0,0
+426000,El Campo Memorial Hospital,0,0,0,1,1,0,0,0
+429001,CHRISTUS Spohn Hospital-Beeville,0,0,0,1,0,0,0,1
+431000,Texas Health Presbyterian Hospital Dallas,1,0,1,1,0,0,0,1
+433000,Connally Memorial Medical Center,0,0,0,1,1,0,0,1
+436000,Brazosport Regional Health System,0,0,1,1,0,0,0,0
+437000,North Hills Hospital,0,0,0,1,0,0,0,0
+438000,East Texas Medical Center-Pittsburg,0,0,0,1,0,0,0,0
+444001,CHRISTUS St Elizabeth Hospital,0,0,0,1,0,0,0,0
+446001,Mother Frances Hospital Winnsboro,0,0,0,1,0,0,0,0
+448001,UT Southwestern University Hospital-St Paul,1,0,1,1,1,1,0,1
+449000,Dallas Medical Center,0,0,1,1,0,0,0,0
+452000,Midland Memorial Hospital,0,0,0,1,0,0,0,0
+453000,DeTar Hospital-Navarro,0,0,1,1,1,0,0,0
+458001,East Houston Regional Medical Center,0,1,1,1,0,0,0,1
+459000,Ben Taub General Hospital,1,1,0,1,0,0,0,0
+459001,Quentin Mease Community Hospital,1,0,1,0,1,0,0,0
+460000,Riverside General Hospital,0,1,0,1,0,0,0,0
+462000,Val Verde Regional Medical Center,0,0,1,1,0,0,0,0
+464002,Medical Center-Southeast Texas,0,1,1,1,0,0,0,1
+465000,Covenant Medical Center,0,0,1,1,0,0,0,0
+466000,Memorial Medical Center-Livingston,0,0,0,1,0,0,0,0
+469000,Texas Health Harris Methodist Hospital Azle,0,0,1,1,0,0,0,0
+474000,Parkland Memorial Hospital,1,0,0,1,0,0,0,0
+476000,Scott & White Hospital Llano,0,0,1,1,0,0,0,0
+477000,Plaza Medical Center-Fort Worth,1,0,1,1,0,0,0,0
+478000,Nacogdoches Memorial Hospital,0,0,1,1,0,0,0,0
+480000,Knapp Medical Center,0,0,0,1,0,0,0,1
+481000,Woodland Heights Medical Center,0,0,0,1,0,0,0,0
+484000,East Texas Medical Center-Carthage,0,0,0,1,0,0,0,0
+488000,Driscoll Childrens Hospital,1,0,0,1,0,0,0,1
+490000,Electra Memorial Hospital,0,0,0,1,0,0,0,0
+495001,Comanche County Medical Center,0,0,1,1,1,0,0,1
+497000,Seton Medical Center,0,0,0,1,0,0,0,0
+500000,Hendrick Medical Center,0,0,1,1,1,0,0,1
+502000,Medical Center-Arlington,0,0,0,1,0,0,0,0
+503001,St Lukes Baptist Hospital,0,1,0,1,1,0,0,0
+505000,Parkview Regional Hospital,0,0,0,1,0,0,0,0
+506000,Hillcrest Baptist Medical Center,0,0,1,1,1,0,0,1
+508001,Conroe Regional Medical Center,1,0,0,1,0,0,0,1
+511000,Doctors Hospital-White Rock Lake,0,0,0,1,0,0,0,0
+513000,Baylor Regional Medical Center-Grapevine,0,0,0,1,0,0,0,0
+522000,Sabine County Hospital,0,0,0,1,1,0,0,0
+525000,Longview Regional Medical Center,0,0,0,1,1,0,0,0
+526000,Shriners Hospitals for Children,0,0,0,1,0,0,0,1
+534001,Memorial Hermann Katy Hospital,0,0,1,1,0,0,0,1
+537000,Scott & White Memorial Hospital,1,0,0,1,0,0,0,1
+537003,Scott & White Memorial Hospital-SNF,0,0,0,0,1,0,0,0
+537005,Scott & White Memorial Hospital-Psych,0,1,0,0,0,0,0,0
+537006,McLane Childrens Hospital Scott & White,1,0,0,1,0,0,0,1
+547001,Fort Duncan Regional Medical Center,0,0,1,1,0,0,0,0
+549000,Methodist Richardson Medical Center,0,0,0,1,0,0,0,0
+556000,Central Texas Medical Center,0,0,0,1,0,0,0,0
+559000,Seton Highland Lakes Hospital,0,0,0,1,0,0,0,0
+560000,Rice Medical Center,0,0,0,1,0,0,0,0
+574001,Palacios Community Medical Center,0,0,0,1,1,0,0,0
+586000,Baylor Specialty Hospital,0,0,0,0,0,1,0,0
+597000,Seton Edgar B Davis Hospital,0,0,0,1,0,0,0,0
+600001,CHRISTUS St John Hospital,0,0,1,1,0,0,0,0
+601000,Rio Grande Regional Hospital,0,0,0,1,0,0,0,0
+602000,St Davids South Austin Hospital,0,0,0,1,0,0,0,0
+606000,Cypress Fairbanks Medical Center,0,0,0,1,0,0,0,1
+608000,Round Rock Medical Center,0,0,0,1,1,0,0,0
+609001,Memorial Hermann Sugar Land,0,0,1,1,0,0,0,1
+615000,Memorial Hermann The Woodlands Hospital,0,0,1,1,0,0,0,1
+616000,HEALTHSOUTH Rehab Hospital Humble,0,0,1,0,0,0,0,0
+622001,Texas NeuroRehab Center,0,0,1,0,0,0,0,0
+625000,Lake Pointe Medical Center,0,0,0,1,0,0,0,0
+627000,Texas Health Harris Methodist Hospital-Southwest Fort W,0,0,1,1,0,0,0,0
+629001,Palestine Regional Medical Center,0,1,0,1,0,0,0,1
+634000,Childrens Hospital of San Antonio,0,0,1,1,0,0,0,1
+636000,HEALTHSOUTH Rehab Institute-San Antonio,0,0,1,0,0,0,0,0
+642000,Baylor Institute for Rehab,0,0,1,0,0,0,0,0
+645000,Kindred Hospital-San Antonio,0,0,0,0,0,1,0,0
+647000,Baptist Emergency Hospital Thousand Oaks,0,0,0,1,0,0,0,0
+649000,St Davids Rehab Center,0,0,1,0,0,0,0,0
+652000,Texas Health Specialty Hospital-Fort Worth,0,0,0,0,0,1,0,0
+653001,UT Southwestern University Hospital-Zale Lipshy,1,1,1,1,0,0,0,0
+654000,Golden Plains Community Hospital,0,0,0,1,0,0,0,0
+657000,Kindred Hospital-Mansfield,0,0,0,0,0,1,0,0
+659000,HEALTHSOUTH Rehab Hospital,0,0,1,0,0,0,0,0
+660000,HEALTHSOUTH Rehab Hospital-Arlington,0,0,1,0,0,0,0,0
+662000,HEALTHSOUTH City View Rehab Hospital,0,0,1,0,0,0,0,0
+663000,HEALTHSOUTH Rehab Hospital-Austin,0,0,1,0,0,0,0,0
+664000,Texas Health Presbyterian Hospital-Plano,0,0,1,1,0,0,0,1
+670000,HEALTHSOUTH Plano Rehab Hospital,0,0,1,0,0,0,0,0
+670001,Mesquite Rehab Hospital,0,0,1,0,0,0,0,0
+671000,HEALTHSOUTH Rehab Hospital-Beaumont,0,0,1,0,0,0,0,0
+672000,Select Specialty Hospital-Dallas,0,0,0,0,0,1,0,0
+674000,TOPS Surgical Specialty Hospital,0,0,0,1,0,0,0,0
+675000,Kingwood Medical Center,0,0,1,1,0,0,0,0
+676000,Kindred Hospital-Houston Medical Center,0,0,0,0,0,1,0,0
+677001,North Central Baptist Hospital,0,0,0,1,0,0,0,0
+679000,Burleson St Joseph Health Center-Caldwell,0,0,0,1,1,0,0,0
+680000,Kindred Rehab Hospital Clear Lake,0,0,1,0,0,0,0,0
+680001,Reliant Rehab Hospital Dallas,0,0,1,1,0,0,0,0
+681001,Methodist Ambulatory Surgery Hospital-Northwest,0,0,0,1,0,0,0,0
+681400,Kell West Regional Hospital,0,0,0,1,0,0,0,0
+684000,HEALTHSOUTH Rehab Hospital-Texarkana,0,0,1,0,0,0,0,0
+685000,HEALTHSOUTH Rehab Hospital-Wichita Falls,0,0,1,0,0,0,0,0
+686000,Covenant Childrens Hospital,0,0,0,1,0,0,0,1
+688000,Hendrick Center- Extended Care,0,0,0,0,0,1,0,0
+689401,CHRISTUS Spohn Hospital Alice,0,1,1,1,0,0,0,1
+690000,Kindred Hospital-Tarrant County,0,0,0,0,0,1,0,0
+690600,LifeCare Hospital-Fort Worth,0,0,1,1,0,1,0,0
+691000,Memorial Specialty Hospital,0,0,0,0,0,0,1,0
+692000,Trinity Mother Frances Rehab Hospital,0,0,1,0,0,0,0,0
+693000,HEALTHSOUTH Rehab Hospital-Midland/Odessa,0,0,1,0,0,0,0,0
+694100,Surgery Specialty Hospitals of America-Southeast Housto,0,0,0,1,0,0,0,0
+695000,HEALTHSOUTH Rehab Hospital The Woodlands,0,0,1,0,0,0,0,0
+698004,Cornerstone Hospital Houston-Clear Lake,0,0,0,0,0,1,0,0
+698005,Cornerstone Hospital Houston-Bellaire,0,0,0,0,0,1,0,0
+700000,Cornerstone Hospital-Austin,0,0,0,1,0,1,0,0
+700003,Reliant Rehab Hospital Mid-Cities,0,0,1,1,0,0,0,0
+701000,Mesa Hills Specialty Hospital,0,0,0,0,0,1,0,0
+702001,Acuity Hospital South Texas,0,0,0,0,0,1,0,0
+703000,Corpus Christi Medical Center-Bay Area,0,0,0,1,0,0,0,0
+703002,Corpus Christi Medical Center-Doctors Regional,0,0,0,1,0,0,0,0
+703003,Corpus Christi Medical Center-Heart Hospital,0,0,0,1,0,0,0,0
+703005,Bayview Behavioral Hospital,0,1,0,0,0,0,0,0
+704004,Corpus Christi Medical Center-Northwest,0,1,0,0,0,0,0,0
+706000,Kindred Hospital Houston NW,0,0,0,0,0,1,0,0
+708000,CHRISTUS Dubuis Hospital-Beaumont,0,0,0,0,0,1,0,0
+708001,CHRISTUS Dubuis Hospital-Port Arthur,0,0,0,0,0,1,0,0
+709001,Red River Hospital,0,1,0,0,0,0,0,0
+710000,Our Childrens House Baylor,0,0,0,0,0,0,0,1
+711900,Big Bend Regional Medical Center,0,0,0,1,0,0,0,0
+712500,HealthBridge Childrens Hospital-Houston,0,0,0,0,0,0,0,1
+713001,CHRISTUS St Michael Rehab Hospital,0,0,1,0,0,0,0,0
+713400,Kindred Hospital North Houston,0,0,0,0,0,1,0,0
+714000,Northwest Texas Surgery Center,0,0,0,1,0,0,0,1
+714500,Ennis Regional Medical Center,0,0,0,1,0,0,0,0
+715901,CHRISTUS St Catherine Hospital,0,0,0,1,0,0,0,1
+717000,LifeCare Hospital-Dallas,0,0,1,0,0,1,0,0
+717500,Physicians Centre Hospital,0,0,0,1,0,0,0,1
+718002,Highlands Regional Rehab Hospital,0,0,1,0,0,0,0,0
+719300,Select Specialty Hospital-San Antonio,0,0,0,1,0,1,0,0
+719400,Kindred Hospital-White Rock,0,0,0,0,0,1,0,0
+720000,Texas Health Seay Behavioral Health Center,0,1,0,0,0,0,0,0
+720400,Kindred Hospital East Houston,0,0,0,1,0,1,0,0
+720401,Kindred Hospital Baytown,0,0,0,0,0,1,0,0
+720402,Kindred Hospital Clear Lake,0,0,0,0,0,1,0,0
+723001,Laurel Ridge Treatment Center,0,1,0,0,0,0,0,0
+724200,Texas Health Presbyterian Hospital Allen,0,0,0,1,0,0,0,0
+724700,Methodist Willowbrook Hospital,0,0,1,1,0,0,0,0
+725400,Mother Frances Hospital-Jacksonville,0,0,0,1,0,0,0,0
+727100,Kindred Hospital El Paso,0,0,0,0,0,1,0,0
+728200,El Paso Specialty Hospital,0,0,0,1,0,0,0,0
+728800,Grimes St Joseph Health Center,0,0,0,1,1,0,0,0
+730001,Texas Health Heart & Vascular Hospital,0,0,0,1,0,0,0,0
+736000,DePaul Center,0,1,0,0,0,0,0,0
+737000,Clarity Child Guidance Center,0,1,0,1,0,0,1,0
+739001,Texas NeuroRehab Center,0,1,0,0,0,0,0,0
+740000,St Lukes Hospital at the Vintage,0,0,0,1,0,0,0,0
+744001,Cypress Creek Hospital,0,1,0,1,0,0,0,0
+747000,River Crest Hospital,0,1,1,0,0,0,0,0
+750000,Methodist Hospital for Surgery,0,0,1,1,0,0,0,0
+752000,Timberlawn Mental Health System,0,1,0,0,0,0,0,0
+754000,Glen Oaks Hospital,0,1,0,0,0,0,0,0
+755001,West Oaks Hospital,0,1,1,0,0,0,0,0
+758000,Houston Hospital for Specialized Surgery,0,0,0,1,0,0,0,0
+763000,Plaza Specialty Hospital,0,0,0,0,0,1,0,0
+765001,Millwood Hospital,0,1,0,0,0,0,0,0
+766000,Green Oaks Hospital,0,1,0,0,0,0,0,0
+770000,Seton Shoal Creek Hospital,0,1,0,0,0,0,0,0
+777000,East Texas Medical Center Specialty Hospital,0,0,0,1,0,1,0,0
+778000,Texas Health Springwood Hospital,0,1,0,0,0,0,0,0
+782001,Intracare North Hospital,0,1,0,0,0,0,0,0
+784400,Baylor Heart & Vascular Center,0,0,0,1,0,0,0,0
+785900,Select Specialty Hospital-South Dallas,0,0,0,0,0,1,0,0
+786001,Llano Specialty Hospital,0,0,0,0,0,1,0,0
+786200,New Braunfels Regional Rehab Hospital,0,0,1,0,0,0,0,0
+786800,South Texas Spine & Surgical Hospital,0,0,0,1,0,0,0,0
+787400,Baylor Medical Center-Frisco,0,0,0,1,0,0,0,1
+787500,Dubuis Hospital-Paris,0,0,0,0,0,1,0,0
+788001,CHRISTUS St Michael Health System,0,0,0,1,0,0,0,0
+788002,Harlingen Medical Center,0,0,0,1,0,0,0,1
+788003,Christus St Michael Hospital Atlanta,0,0,0,1,0,0,0,0
+789800,LifeCare Hospital-Plano,0,0,0,0,0,1,0,0
+790200,Texas Spine & Joint Hospital,0,0,0,1,0,0,0,0
+790500,Sugar Land Surgical Hospital,0,0,0,1,0,0,0,0
+792000,Texas Orthopedic Hospital,0,0,1,1,0,0,0,0
+792600,Kindred Hospital Spring,0,0,0,0,0,1,0,0
+792601,Kindred Hospital Tomball,0,0,0,0,0,1,0,0
+792700,Kindred Hospital Sugar Land,0,0,0,0,0,1,0,0
+792702,Kindred Hospital Town & Country,0,0,0,0,0,1,0,0
+793000,Mainland Medical Center,0,1,1,1,0,0,0,0
+793100,St Lukes The Woodlands Hospital,1,0,1,1,0,0,0,0
+794000,Northwest Hills Surgical Hospital,0,0,0,1,0,0,0,1
+794200,Menninger Clinic,0,1,0,0,0,0,0,0
+794600,Select Specialty Hospital-Longview,0,0,0,0,0,1,0,0
+795000,Nexus Specialty Hospital Shenandoah Campus,0,0,0,0,0,1,0,0
+795001,Nexus Specialty Hospital,0,0,0,0,0,1,0,0
+796000,Plum Creek Specialty Hospital,0,0,0,0,0,1,0,0
+797001,Dubuis Hospital-Corpus Christi,0,0,0,0,0,1,0,0
+797100,Doctors Hospital-Renaissance,0,1,1,1,0,0,0,1
+797500,Seton Southwest Hospital,0,0,0,1,0,0,0,0
+797600,Seton Northwest Hospital,0,0,0,1,0,0,0,0
+799000,East Texas Medical Center Rehab Hospital,0,0,1,0,0,0,0,0
+799001,USMD Hospital-Arlington,0,0,0,1,0,0,0,0
+799500,Irving Coppell Surgical Hospital,0,0,0,0,0,0,0,0
+800000,Kindred Hospital Tarrant County Fort Worth SW,0,0,0,0,0,1,0,0
+800010,Methodist West Houston Hospital,0,0,1,1,0,0,0,0
+800700,Kindred Hospital-Fort Worth,0,0,0,0,0,1,0,0
+801000,Kindred Hospital Bay Area,0,0,0,0,0,1,0,0
+801300,East El Paso Physicians Medical Center,0,0,0,1,0,0,0,0
+801500,Lubbock Heart Hospital,0,0,0,1,0,0,0,0
+802001,McAllen Medical Center,0,0,0,1,0,0,0,1
+804000,Sunrise Canyon,0,1,0,0,0,0,0,0
+804500,Baylor Surgical Hospital-Fort Worth,0,0,0,1,0,0,0,0
+805000,Plano Specialty Hospital,0,0,0,0,0,1,0,0
+805100,Baylor Medical Center Trophy Club,0,0,0,0,0,0,0,0
+806002,Cedar Crest Hospital,0,1,0,1,0,0,0,0
+806300,Centennial Medical Center,0,0,0,1,0,0,0,0
+806500,Tyler Continue Care Hospital,0,0,0,0,0,1,0,0
+806800,East Texas Medical Center-Gilmer,0,0,0,1,0,0,0,0
+808500,Weslaco Rehab Hospital,0,0,1,0,0,0,0,0
+812800,Texas Health Harris Methodist Hospital Southlake,0,0,0,1,0,0,0,0
+813100,Texas Institute for Surgery-Texas Health Presbyterian-D,0,0,0,1,0,0,0,0
+813800,Memorial Hermann Specialty Hospital Kingwood,0,0,0,1,0,0,0,1
+814000,Las Colinas Medical Center,0,0,0,1,0,0,0,0
+814001,Baylor Regional Medical Center-Plano,0,0,0,1,0,0,0,0
+815000,LifeCare Hospital-San Antonio,0,0,0,0,0,0,1,0
+815300,Texas Health Center-Diagnostics & Surgery Plano,0,0,0,1,0,0,0,0
+816001,Allegiance Behavioral Health Center-Plainview,0,1,0,0,0,0,0,0
+816300,Solara Hospital,0,0,0,0,0,1,0,0
+816301,Solara Hospital,0,0,0,0,0,1,0,0
+818200,Pine Creek Medical Center,0,0,0,1,0,0,0,0
+818600,Kingwood Pines Hospital,0,1,0,0,0,0,0,0
+820002,Texas Specialty Hospital-Wichita Falls,0,0,0,0,0,1,0,0
+820600,Innova Hospital-San Antonio,0,0,0,1,0,0,0,0
+820800,Texas Health Presbyterian Hospital-Denton,0,0,1,1,0,0,0,1
+821001,LifeCare Hospital-South Texas-South,0,0,0,0,0,1,0,0
+821002,LifeCare Hospitals-South Texas - North,0,0,0,0,0,1,0,0
+821100,South Texas Rehab Hospital,0,0,1,0,0,0,0,0
+822000,Dubuis Hospital-Texarkana,0,0,0,1,0,1,0,0
+822001,Houston Physicians Hospital,0,0,1,1,0,0,0,0
+822100,Good Shepherd Medical Center-Linden,0,0,0,1,1,0,0,0
+822800,Westlake Medical Center,0,0,0,1,0,0,0,0
+823000,Methodist Sugar Land Hospital,0,0,1,1,0,0,0,0
+823400,St Marks Medical Center,0,0,0,1,0,0,0,0
+826800,University Behavioral Health-Denton,0,1,0,0,0,0,0,0
+829000,Heart Hospital-Austin,0,0,0,1,0,0,0,0
+829900,North Austin Medical Center,0,0,0,1,0,0,0,0
+830000,Cornerstone Regional Hospital,0,0,0,1,0,0,0,0
+831700,Mayhill Hospital,0,1,0,0,0,0,0,0
+831800,Kindred Rehabilitation Hospital Arlington,0,0,1,0,0,0,0,0
+831900,Houston Orthopedic & Spine Hospital,0,0,0,1,0,0,0,0
+832900,Pampa Regional Medical Center,0,0,0,1,0,0,0,0
+833000,Gulf Coast Medical Center,0,1,0,1,0,0,0,0
+835700,St Davids Georgetown Hospital,0,0,0,1,0,0,0,0
+836300,Laredo Specialty Hospital,0,0,0,0,0,1,0,0
+837800,Hickory Trail Hospital,0,1,0,0,0,0,0,0
+838400,Memorial Hermann Rehab Hospital Katy,0,0,1,1,0,0,0,0
+838600,St Joseph Medical Center,0,1,1,1,1,0,0,0
+839100,Vibra Specialty Hospital,0,0,0,0,0,1,0,0
+839200,Regency Hospital - Fort Worth,0,0,0,0,0,1,0,0
+840000,Mesquite Specialty Hospital,0,0,0,0,0,1,0,0
+840100,First Street Hospital,0,0,0,1,0,0,0,0
+840200,University General Hospital,0,0,0,1,0,0,0,0
+840400,Doctors Diagnostic Hospital,0,0,0,1,0,0,0,0
+840700,Solara Hospital Harlingen,0,0,0,0,0,1,0,0
+841300,El Paso LTAC Hospital,0,0,0,0,0,1,0,0
+842800,Methodist Mansfield Medical Center,0,0,0,1,1,0,0,0
+843200,North Cypress Medical Center,0,0,0,1,0,0,0,0
+844000,Heart Hospital Baylor Plano,0,0,0,1,0,0,0,0
+844200,Integrity Transitional Hospital,0,0,0,0,0,1,0,0
+844600,Warm Springs Rehab Hospital-San Antonio,0,0,1,0,1,0,0,0
+844601,Warm Springs Rehab Hospital Thousand Oaks,0,0,1,0,0,0,0,0
+844602,Warm Springs Rehab Hospital Westover Hills,0,0,1,0,0,0,0,0
+844800,Weatherford Regional Medical Center,0,0,0,1,0,0,0,0
+846000,Acadia Abilene,0,1,0,0,0,0,0,0
+846100,St Lukes Patients Medical Center,0,0,0,1,0,0,0,0
+846200,Covenant Specialty Hospital,0,0,0,0,0,1,0,0
+847000,Texoma Medical Center,0,0,0,1,0,0,0,0
+847100,Memorial Hermann Northeast,0,0,1,1,0,0,0,1
+847200,Atrium Medical Center-Corinth,0,0,0,0,0,1,0,0
+847500,Solara Hospital-Brownsville Campus,0,0,0,0,0,1,0,0
+847600,Dubuis Hospital-Texarkana-Wadley,0,0,0,0,0,1,0,0
+848100,Warm Springs Specialty Hospital-Victoria,0,0,1,0,0,1,0,0
+848200,Warm Springs Specialty Hospital-Luling,0,0,1,0,0,1,0,0
+850200,Cook Childrens Northeast Hospital,0,0,0,1,0,0,0,1
+850300,Scott & White Continuing Care,0,0,0,0,0,1,0,0
+851400,Harbor Hospital-Southeast Texas,0,0,0,0,0,1,0,0
+852000,Dell Childrens Medical Center,0,0,0,0,0,0,0,1
+852100,Foundation Bariatric Hospital-San Antonio,0,0,0,1,0,0,0,0
+852600,Scott & White Hospital Round Rock,0,0,0,1,0,0,0,0
+852900,Physicians Surgical Hospital-Quail Creek,0,0,0,1,0,0,0,0
+852901,Physicians Surgical Hospital-Panhandle Campus,0,0,0,1,0,0,0,0
+854100,Solara Hospital Conroe,0,0,0,0,0,1,0,0
+854400,Central Texas Rehab Hospital,0,0,1,0,0,0,0,0
+855200,Austin Lakes Hospital,0,1,0,0,0,0,0,0
+856400,Victory Medical Center Craig Ranch,0,0,0,1,0,0,0,0
+858200,Ethicus Hospital DFW,0,0,0,0,0,1,0,0
+858300,Cedar Park Regional Medical Center,0,0,0,1,0,0,0,0
+858600,University Behavioral Health-El Paso,0,1,0,0,0,0,0,0
+859900,Texas Health Presbyterian Hospital-Rockwall,0,0,0,1,0,0,0,0
+860600,North Central Surgical Center,0,0,0,1,0,0,0,0
+861300,Reliant Rehab Hospital North Texas,0,0,1,1,0,0,0,0
+861400,USMD Hospital Fort Worth,0,0,0,1,0,0,0,1
+861700,Seton Medical Center Williamson,0,0,0,1,0,0,0,0
+861900,Kate Dishman Rehab Hospital,0,0,1,0,0,0,0,0
+862000,Methodist Rehab Hospital,0,0,1,0,0,0,0,0
+863300,CHRISTUS Santa Rosa Hospital New Braunfels,0,0,1,1,0,0,0,0
+864600,Carrus Specialty Hospital,0,0,0,0,0,1,0,0
+864800,CHRISTUS Dubuis Hospital-Bryan,0,0,0,0,0,1,0,0
+865000,Sierra Providence East Medical Center,0,0,0,1,0,0,0,0
+865800,TrustPoint Hospital,0,1,1,1,0,0,0,0
+865900,Icon Hospital,0,0,0,0,0,1,0,0
+866100,Reliant Rehab Hospital Central Texas,0,0,1,1,1,0,0,0
+869700,St Lukes Sugar Land Hospital,1,0,1,1,0,0,0,0
+871500,Select Rehab Hospital-Denton,0,0,1,0,0,0,0,0
+872100,Baylor Institute for Rehab Northwest Dallas,0,0,1,0,0,0,0,0
+873200,Baylor Emergency Medical Center at Aubrey,0,0,0,1,0,0,0,0
+873700,Reliant Rehab Hospital North Houston,0,0,1,1,0,0,0,0
+873800,Baylor Institute for Rehab-Fort Worth,0,0,1,0,0,0,0,0
+874000,Atrium Medical Center,0,0,0,0,0,1,0,0
+874100,Methodist Stone Oak Hospital,0,0,0,1,0,0,0,0
+900000,Forest Park Medical Center,0,0,0,1,0,0,0,0
+901100,Humble Surgical Hospital,0,0,0,1,0,0,0,0
+902200,Texas Rehabilitation Hospital-Fort Worth,0,0,1,0,0,0,0,0
+908000,South Hampton Community Hospital,0,0,0,1,0,0,0,0
+914000,Kindred Hospital Dallas Central,0,0,0,0,0,1,0,0
+915000,Aspire Behavioral Health-Conroe,0,1,0,0,0,0,0,0
+916000,Emerus Hospital,0,0,0,1,0,0,0,0
+919000,Texas Regional Medical Center Sunnyvale,0,0,0,1,0,0,0,0
+920000,Reliant Rehab Hospital Abilene,0,0,1,1,0,0,0,0
+921000,Seton Medical Center Hays,0,0,0,1,0,0,0,0
+923000,St Lukes Lakeside Hospital,0,0,1,1,0,0,0,0
+931000,South Texas Surgical Hospital,0,0,0,1,0,0,0,0
+936000,Baylor Orthopedic and Spine Hospital - Arlington,0,0,0,1,0,0,0,0
+937000,Methodist McKinney Hospital,0,0,1,1,0,0,0,0
+938000,Basin Healthcare Center,0,0,0,1,0,0,0,0
+940000,Texas Specialty Hospital Lubbock,0,0,0,0,0,1,0,0
+941000,Kindred Hospital The Heights,0,0,0,0,0,1,0,0
+943000,Texas Health Presbyterian Hospital Flower Mound,0,0,0,1,0,0,0,1
+944000,Behavioral Hospital Longview,0,1,0,0,0,0,0,0
+945500,Victory Medical Center Houston,0,0,0,1,0,0,0,0
+956000,Westbury Community Hospital,0,1,0,0,0,0,0,0
+957000,Carrus Rehab Hospital,0,0,1,0,0,0,0,0
+969000,HEALTHSOUTH Sugar Land Rehab Hospital,0,0,1,0,0,0,0,0
+969200,Behavioral Hospital-Bellaire,0,1,0,0,0,0,0,0
+969500,Carrollton Springs,0,1,0,0,0,0,0,0
+969600,Kindred Rehab Hospital Northeast Houston,0,0,1,0,0,0,0,0
+969700,El Paso Childrens Hospital,1,0,1,1,0,0,0,1
+970160,Red Oak Hospital,0,0,0,1,0,0,0,0
+970200,Lakeway Regional Medical Center,0,0,1,1,0,0,0,0
+970600,Reliant Rehab Hospital Northwest Houston,0,0,1,1,0,0,0,0
+970800,Reliant Austin,0,0,1,1,0,0,0,0
+971000,Seton Medical Center Harker Heights,0,0,0,1,0,0,0,0
+971200,Accel Rehab Hospital of Plano,0,0,1,0,0,0,0,0
+971700,Cambridge Hospital,0,1,0,0,0,0,0,0
+971800,Forest Park Medical Center Frisco,0,0,0,1,0,0,0,0
+971900,Baylor Medical Center McKinney,0,0,0,0,0,0,0,0
+972200,Cornerstone Hospital of South Houston,0,0,0,0,0,1,0,0
+972810,Baptist Emergency Hospital Overlook,0,0,0,1,0,0,0,0
+972900,Texas Health Harris Methodist Hospital Alliance,0,0,0,1,0,0,0,0
+972910,Victory Medical Center Plano,0,0,0,1,0,0,0,0
+972960,Warm Springs Specialty Hospital San Antonio,0,0,0,0,0,1,0,0
+972970,Victory Surgical Hospital East Houston,0,0,0,1,0,0,0,0
+972990,Victory Medical Center Mid-Cities,0,0,0,1,0,0,0,0
+973000,Baptist Emergency Hospital Westover Hills,0,0,0,1,0,0,0,0
+973100,St Joseph Medical Center-Heights,0,0,0,1,0,0,0,0
+973110,Wise Regional Health System Bridgeport Campus,0,0,0,1,0,0,0,0
+973120,Baptist Emergency Hospital,0,0,0,1,0,0,0,0
+973130,Warm Springs Rehab Hospital Allen,0,0,1,0,0,0,0,0
+973140,Forest Park Medical Center Southlake,0,0,0,1,0,0,0,0
+973150,Nix Community General Hospital,0,0,0,1,0,0,0,0
+973160,Austin Oaks Hospital,0,1,0,0,0,0,0,0
+973170,Victory Medical Center Beaumont,0,0,0,1,0,0,0,0
+973180,Crescent Medical Center Lancaster,0,0,0,1,0,0,0,0
+973240,Oceans Behavioral Hospital Abilene,0,1,0,0,0,0,0,0
+973250,Post Acute Specialty Hospital of Corpus Christi,0,0,0,0,0,1,0,0
+973290,Arise Austin Medical Center,0,0,0,1,0,0,0,0
+973300,Select Rehabilitation Hospital-San Antonio,0,0,1,0,0,0,0,0
+973310,Corpus Christi Rehabilitation Hospital,0,0,1,0,0,0,0,0
+973320,Post Acute Medical Specialty Hospital Victoria,0,0,0,0,0,1,0,0
+973330,Spring Central Hospital,0,0,0,1,0,0,0,0
+973340,Vibra Hospital of Amarillo,0,0,0,0,0,1,0,0
+973350,Vibra Rehabilitation Hospital Amarillo,0,0,1,0,0,0,0,0
+973390,Star Medical Center,0,0,0,1,0,0,0,0

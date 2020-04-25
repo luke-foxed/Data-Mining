@@ -24,7 +24,7 @@ def eda_categorical(df, feature, target, max_categories=20, labels=None, header=
     if header: display(Markdown("#### %s" % feature))
     
     if df[feature].nunique()>max_categories:
-        print("Warning: number of columns (%s) in feature (%s) is too large (>%s)") % (df[feature].nunique(), feature, max_categories)
+        print("Warning: number of columns {0} in feature {1} is too large (>{2})".format(df[feature].nunique(), feature, max_categories))
         return
         
     # 1. Distribution table
